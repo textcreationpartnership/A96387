@@ -1,0 +1,1055 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A charitable essay, in order to allay the outrage of a contentious apostate inverting his error (from true Christian faith and charity) upon him, in his book, falsly stiled, New Rome unmask'd, &amp;c.</title>
+            <author>Whitehead, George, 1636?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96387</idno>
+            <idno type="STC">Wing W1903</idno>
+            <idno type="STC">ESTC R233852</idno>
+            <idno type="EEBO-CITATION">46942697</idno>
+            <idno type="OCLC">ocm 46942697</idno>
+            <idno type="VID">172997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172997)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2661:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A charitable essay, in order to allay the outrage of a contentious apostate inverting his error (from true Christian faith and charity) upon him, in his book, falsly stiled, New Rome unmask'd, &amp;c.</title>
+                  <author>Whitehead, George, 1636?-1723.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 7: G.Whitehead.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Statement refuting F. Bugg is found on p. 8 subscribed: Signed in London, the 3d. day of the 2d. Month, called April, 1693. Tho. Green, James Parke, Sam. Waldenfield, John V[au]gh[t]on, Benjamin Antrobus, John Butcher, Gilbert Laity, Theodor Eccleston, John Bowater, Richard Needham, William Robinson, Francis Etteridge.</note>
+                  <note>Imperfect: cropped, and stained, with loss of text.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bugg, Francis, 1640-1724? --  New Rome unmask'd and her foundation shaken.</term>
+               <term>New Rome unmask'd and her foundation shaken.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="essay">
+            <pb n="1" facs="tcp:172997:1" rendition="simple:additions"/>
+            <head>A Charitable Eſſay, IN Order to allay the Outrage of a <hi>Contentious Apoſtate</hi> inverting his Error (from true Chriſtian Faith and Charity) upon him, in his Book, falſly Stiled, <hi>New Rome Vnmask'd, &amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>— Thy Backſlidings ſhall reprove thee,
+<bibl>
+                     <hi>Jer. 2.19.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>IN the firſt place, let it be Noted, that <hi>Francis Bugg</hi> in his Epiſtle Dedicatory to Sir <hi>H. N.</hi> (in his late Book, falſly Stiled, <hi>New Rome <g ref="char:V">Ʋ</g>nmask'd, and her Foundation ſhaken,</hi>) doth thus Apologize, <hi>viz. I have adventured to ſpend ſome Leiſurable Hours to ſet forth to the World ſome Reaſons, why it is no Apoſtacy from the Chriſtian Faith to ſeparate from the Quakers: Be pleaſed therefore, that under your Name and Patronage, they may appear as a Covert to vail their Imperfections, for defective they muſt needs be in many reſpects; firſt, for that I am not indued with that Spirit the Apoſtles had.</hi> Pray Obſerve here his Reaſons againſt the Quakers, (ſo called,) muſt needs be very lame and defective indeed in many reſpects, becauſe they proceed not from the Spirit of Chriſt, being that very Spirit the Holy Apoſtles, and all true Chriſtians, had and have, according to their ſe<g ref="char:EOLhyphen"/>veral meaſures and degrees thereof; but it ap<g ref="char:EOLhyphen"/>pears, <hi>F. B.</hi> is not indued therewith, but with another (a contrary) Spirit, from whence all his lame defective Reaſons, and bitter Reproach<g ref="char:EOLhyphen"/>es againſt us proceed; whence we may Argue, 1. He that has not the Spirit of Chriſt, is none of his, <hi>Rom.</hi> 8.9. but <hi>F. B.</hi> has not the Spirit of Chriſt, he is not indued with it, therefore he is none of Chriſt's, conſequently no true Chriſtian. 2. He that for ſome time was (in meaſure) in<g ref="char:EOLhyphen"/>dued with the Spirit of Chriſt, and afterwards ſo <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> he forfeits and loſes ſuch his Induement, or <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therein, he is an Apoſtate from Chriſt and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Spirit; but, <hi>F. B.</hi> was for ſome time ſo ind<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with the Spirit of Chriſt, and afterward hath backſlidden, and turned from the ſame Spirit, pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> therefore he is an Apoſtate from Chriſt and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Spirit. I ſuppoſe the Firſt Propoſition, no <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tional Chriſtian Man will deny; the Second <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Commendations, of the People called Quak<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their Doctrin and Miniſtry, <hi>As a diſpenſation of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> love of God ſent as a viſitation to Mankind, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſtian Society, Love unfeigned, and bleſſed E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as in the beginning, and for many Years,</hi> &amp;c. w<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> accordingly he has highly commended, both <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fore and ſince his Conformity, in his Two Bo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> one Entitled, <hi>De Chriſtiana Libertate,</hi> Ch. 1. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 2. Printed <hi>Anno</hi> 1682. The other, <hi>The Qui<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>detected,</hi> p. 3. Printed 1686. about Two Y<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> after his Conformity to the Church of <hi>Engl<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> ſo that he muſt needs have been indued with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Spirit of Chriſt, whilſt he felt his Bleſſing <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Preſence among us; but now he has loſt tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> duement, he is not now indued with the Spir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt, which the Apoſtles had, but ſince t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a bitter Enemy to us, and Railer in Print age<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, therefore he is an Apoſtate, not only <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the People called Quakers, but from Chriſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Spirit. He proceeds in his Apology, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:172997:2" rendition="simple:additions"/>
+               <hi>ſufficient to grapple with ſuch Scholars as are ſome be Chieftains of the Quakers. Anſw.</hi> However <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1 <hi>F. B.</hi> art ſo plentifully accompliſh'd with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and Scorn, and ſo puft up with Pride and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tempt againſt us, that thou knoweſt how to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Scoff, Flout, Diſdain, Detract, and Per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; ſuch Rhetorick thy Bottle and Bundle is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leniſh'd withal. But 'twere far more reputa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for thee to ſtudy to be Quiet, and mind thy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Buſineſs, than to buſie thy ſelf in Defaming <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reproaching others.</p>
+            <p>Thou haſt accuſed us with a <hi>Crooked Creed,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch thou calleſt <hi>the Qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kers Creed,</hi> (made up of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Articles, or Six Creeds rather,) which thou <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dereſt <hi>contrary</hi> to what's either <hi>Apoſtolical,</hi> or <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſtian,</hi> chiefly concerning <hi>Jeſus Chriſt,</hi> and the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Scriptures,</hi> falſly inſinuating our denial there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as in thy Epiſtle to the <hi>Bereans,</hi> ch 3. p. 16. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I muſt tell thee, 'ti ſuch a Creed as I never <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> before, to be termed a Creed; 'tis a Creed <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thy own modelling, of thy own forming as <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>reed, of thy own conſtruing, and of thy own <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>demning alſo, as Anti-Apoſtolical, Anti-Chri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, Blaſphemous, and what not, <hi>&amp;c.</hi> Thy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and chief Charge of our <hi>not owning Him that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Born of the Virgin</hi> Mary <hi>to be Chriſt;</hi> or, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Quakers <hi>cannot call HIM Chriſt;</hi> and far<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r, <hi>that the Quakers deny the ſame Chriſt Jeſus,</hi> ch. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> [all which being Notorious Falſhoods,] thou <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deduced from Three Articles, or Creeds, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u haſt formed, as the Quaker's out of <hi>Iſaac <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nington</hi>'s <hi>Queſtions</hi> to the <hi>Profeſſors;</hi> ſo thou art <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome ſuch a Learned Creed-maker, that thou <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt make Queſtions, Creeds, or turn particu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Queſtions into a general Creed, and then <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke thy falſe Conſtruction, and thereupon Cry <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Oh! Horrible Blaſphemy.</hi> And therefore the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>trary ſenſe of every Article alledged againſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Quakers, may be rationally and juſtly invert<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> upon thee as thy Senſe and Creed.</p>
+            <p n="1">1. In the Firſt Article, or Creed, thou Ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſt, and wouldſt impoſe on the Quakers, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Scriptures do expreſly diſtinguiſh between <hi>CHRIST</hi> and the <hi>BODY</hi> in which he came, be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een the <hi>S<g ref="char:V">Ʋ</g>BSTANCE</hi> which was Vailed, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>VAIL,</hi> &amp;c. Lo I come, a Body haſt thou pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red me: There is plainly <hi>HE,</hi> and the <hi>BODY</hi> which <hi>he</hi> came; there was the outward <hi>Veſſel,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the inward Life, <hi>&amp;c.</hi> This being by <hi>F. B.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>demned as <hi>contrary</hi> to the Teſtimony of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rious Angels, the holy Apoſtles, bleſſed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtyrs and true Confeſſors, for above theſe <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> 
+               <hi>Christ</hi> for whom the Body was prepared; 'twas <hi>not</hi> Chriſt that came <hi>in</hi> the Fleſh or Body; there's <hi>no</hi> ſuch diſtinction in Scripture as <hi>between Christ</hi> and the <hi>Body,</hi> the <hi>Vail</hi> and the <hi>Subſtance,</hi> the outward <hi>Veſſel</hi> and the <hi>INWARD LIFE.</hi> Then, behold! this Creed-maker's Creed, how con<g ref="char:EOLhyphen"/>trary to plain Scripture-phraſe and diſtinction it is, <hi>viz. The Body of Jeſus,</hi> Mat. 27.58. <hi>Chriſt</hi> come <hi>in</hi> the Fleſh, 1 <hi>Joh.</hi> 4.2, 3. who calls his Body <hi>this Temple,</hi> Joh. 2.19, 21. and the Apo<g ref="char:EOLhyphen"/>ſtle calls <hi>his Fleſh</hi> the <hi>Vail,</hi> Heb. 10.20. Lo, I come, <hi>a Body hast thou prepared me,</hi> Pſal. 40.7. Heb. 10. Was not this <hi>I</hi> and <hi>Me</hi> Chriſt the Son of God? And how plain is the diſtinction? And Dr. <hi>Barns</hi> himſelf (even as <hi>F. B.</hi> cites him, <hi>p.</hi> 19.) has the ſame diſtinction in his Creed or Belief, <hi>That Jeſus Christ who was conceived by the Holy Ghost TOOK Fleſh o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the bleſſed Virgin</hi> Mary. Very true; who took Fleſh of the Virgin? 'Twas Jeſus Chriſt; therefore, Jeſus Chriſt was before. Yet we'll readily grant that though the Names <hi>Jeſus</hi> and <hi>Christ</hi> chiefly and in the <hi>first place</hi> belong to him that took the <hi>Body</hi> or <hi>Fleſh</hi> (as <hi>J. P.</hi> explains his meaning) yet the Names <hi>Jeſus</hi> and <hi>Christ</hi> were given to both his <hi>Body</hi> and <hi>Soul</hi> joyntly and ſeve<g ref="char:EOLhyphen"/>rally in a <hi>Synecdochical</hi> way of ſpeaking.</p>
+            <p>It was Chriſt that dyed; but how? <hi>As con<g ref="char:EOLhyphen"/>cerning the Fleſh,</hi> 1 Pet. 3.18. For his Divine Life never dyed; nor did the Soul of the <hi>Meſſiah</hi> ever die. But to which <hi>chiefly</hi> and <hi>primarily</hi> were the Names <hi>Jeſus</hi> and <hi>Christ</hi> given? 1. If to the Body or Fleſh he took, then the Body was a<g ref="char:EOLhyphen"/>bove and more excellent than his Soul, and the Fleſh above the Spirit. 2. And if <hi>ſo</hi> then the Son of God either was not, or was not <hi>Christ</hi> be<g ref="char:EOLhyphen"/>fore he took the Body. Oh! horrible Ignorance. How now <hi>F. B.!</hi> Why did not thy Miniſter ſtop thee from running into ſuch <hi>Socinianiſm?</hi> Whi<g ref="char:EOLhyphen"/>ther art thou run in thy Oppoſition and Creed<g ref="char:EOLhyphen"/>making; to render the Quakers horrible Blaſ<g ref="char:EOLhyphen"/>phemers? As to <hi>J. P.</hi>'s words chiefly objected, <hi>That we cannot call the Bodily Garment, Chriſt.</hi> The word <hi>Garment</hi> I take to be only a figurative manner of ſpeaking, as the word, <hi>Vail</hi> which is his Fleſh is, <hi>Heb.</hi> 10.20. An Ingenious Man would allow him his own meaning as he explains it; namely, <hi>That we cannot call the Body (which he took upon him) chiefly and in the firſt place Jeſus Chriſt.</hi> It not being firſt, nor the intire Chriſt, becauſe he was the Son of God, and conſequently Chriſt, before he took upon him that Body, even when God created all things by Jeſus Chriſt, <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <p n="2">
+               <pb n="3" facs="tcp:172997:2"/> 2. A Queſtion, Creed 2. <q>If any have felt the <hi>ſaving Arm</hi> of the Lord, a meaſure of the <hi>ſame Life, Power</hi> and <hi>Anointing</hi> revealed in us and in our Veſſels as was in his; Is it not of the ſame Nature, <hi>&amp;c.</hi> Is not Chriſt the Seed? If this Seed grow up in me, is not Chriſt then formed in me? If I be ingrafted into and grow in it, am not I ingrafted into Chriſt? Is not this the <hi>ſame</hi> Chriſt that took upon him a Body of Fleſh, and offered it without the Gates of <hi>Jeruſalem?</hi> [To all which we ſay <hi>Yea</hi>] Is there any more Chriſt's than one? Or is there any other than he? Is Chriſt divided? Is there one Chriſt within, another without?</q> [To all which we ſay <hi>Nay.</hi>] Our Adverſary con<g ref="char:EOLhyphen"/>cluding his Remark hereupon, <hi>That if the ſame Chriſt that offered up that Body be IN them, as they ſay, even the very ſame that ſuffered Death at</hi> Jeru<g ref="char:EOLhyphen"/>ſalem; then he cries out, <hi>Oh! horrible Blaſphemy.</hi> Pray then obſerve this Oppoſer's contrary Creed, <hi>e converſo.</hi> 1. That a meaſure of the ſame Life, Power and Anointing revealed in us, as was in Chriſt, is not of the ſame Nature [what pure Nonſenſe is this?] 2. That Chriſt is <hi>not</hi> the Seed; or, that Chriſt is <hi>not</hi> formed in them that are ingrafted into him and grow up in him 3. That this Seed, Chriſt, into which true Be<g ref="char:EOLhyphen"/>lievers are ingrafted, is <hi>not</hi> the ſame Chriſt that took on him the Body of Fleſh, and offer'd it with<g ref="char:EOLhyphen"/>out the Gates of <hi>Jeruſalem</hi> [Oh horrible Igno<g ref="char:EOLhyphen"/>rance! the Seed Chriſt is but one and the ſame indiviſible Chriſt.] 4. That there's more Chriſt's than one, there's one <hi>without,</hi> another <hi>within;</hi> another than him that took the Body that ſuffered at <hi>Jeruſalem,</hi> or that Chriſt is divided: [Oh horrible Antichriſtianiſm!] thus to oppoſe and deny <hi>Chriſt within,</hi> the <hi>Word of Faith ingrafted,</hi> and conſequently Chriſt's coming in Spirit, as not the ſame Chriſt that came and ſuffered in the Fleſh, contrary to the expreſs Teſtimonies of the holy Prophets and Apoſtles, and of Chriſt him<g ref="char:EOLhyphen"/>ſelf, which are for the <hi>one Seed,</hi> the one Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, as both in the Fleſh and in the Spirit; the word of Faith, the ingrafted word who is not divided; even the ſame Chriſt that ſuffered in the Fleſh, being ſpiritually in true Believers; read <hi>Joh.</hi> 17.23, 26. <hi>I in them, and they in me,</hi> &amp;c. Whence I argue, If it was the <hi>ſame</hi> Jeſus Chriſt that offered up the Body that ſaid theſe words, <hi>I in them and they in me,</hi> then the <hi>ſame</hi> Jeſus Chriſt is <hi>in</hi> true Believers: But it was the <hi>ſame</hi> Jeſus Chriſt, <hi>&amp;c.</hi>
+            </p>
+            <p>Creed 3. <q>To whom do the Names and Ti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and in the <hi>firſt place</hi> belong? Do they belong to the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which was <hi>took</hi> by <hi>him,</hi> or to <hi>him</hi> who took <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Body, <hi>&amp;c.</hi> [They belong <hi>chiefly</hi> and in the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>place to him,</hi> the Son of God, who took <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Body in <hi>J. P.</hi>'s Senſe.]</q> But this Creed ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>F. B.</hi> objects, <hi>viz. That the natural conſequence of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is,</hi> 1. That the Names <hi>Jeſus</hi> and <hi>Chriſt</hi> do no<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> properly belong to the Body as to the Treaſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Body, <hi>That here they ſeparate that which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hath for ever joyned together.</hi> [Falſe, by the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we may diſtinguiſh where we do not ſeparat<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Then do but turn theſe Queſtions cited into <hi>F. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> contrary ſenſe (in oppoſition to that of <hi>J. P.</hi> and 'tis this, <hi>viz. That the Names and Titles JES<g ref="char:V">Ʋ</g>S</hi> and <hi>CHRIST do not CHIEF<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Y and in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> FIRST PLACE belong to him</hi> (i. e. the So<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God) <hi>who took the Body but chiefly and in the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> place to the Body which he took upon him, which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> prepared for him.</hi> Behold this Creed-mak<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Creed! How Unchriſtian in it ſelf, and A <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> chriſtian in its natural conſequence, ſuppo<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Jeſus Chriſt the Son of God was not in being <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fore his Incarnation. Oh horrible Antichr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>aniſm! againſt which I propoſe theſe Ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ments.</p>
+            <p n="1">1. If Jeſus Chriſt was before he took the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or Fleſh, then the Names <hi>Jeſus</hi> and <hi>Chriſt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> chiefly</hi> and in the <hi>firſt place</hi> belong to <hi>Him</hi> that t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Body; but Jeſus Chriſt was before he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Body; therefore, <hi>&amp;c.</hi> The firſt Prop<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion is unqueſtionable; for the ſecond I far<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> argue.</p>
+            <p n="2">2. If the Son of God was before he took <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Body, then Jeſus Chriſt was before he took <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Body; but the Son of God was before he took <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Body; therefore, Jeſus Chriſt was before he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Body (or came in the Fleſh.) The firſt par<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not to be doubted, That the Son of God was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Anointed</hi> of God, the Chriſt of God, the Savi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the ſecond Part, is evident that the Son of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was before he took the Body, becauſe God n<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Worlds by his Son, <hi>Heb.</hi> 1.2.</p>
+            <p n="3">3. If God created all things by Jeſus Ch<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> then Jeſus Chriſt was before he took the Bo<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> but God created all things by Jeſus Chr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> therefore, <hi>&amp;c.</hi> See <hi>Eph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.9.</p>
+            <p n="4">4. If that Spiritual Rock which all <hi>Iſrael</hi> di<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of was Chriſt, then Chriſt was before he took Body; but that Spiritual Rock which all <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> drank of was Chriſt, 1 <hi>Cor.</hi> 10.4. And <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> eſteemed the Reproaches of <hi>Chriſt</hi> gre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Riches than the Treaſures of <hi>Aegypt, Heb.</hi> 11.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Therefore Chriſt was in <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſes</hi>'s days.</p>
+            <p>Chriſt was <hi>before</hi> Abraham <hi>was,</hi> Jo. 8.58. <hi>His g<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:172997:3"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have been from of old, from everlaſting,</hi> Mica 5.2. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alſo <hi>Heb.</hi> 7.3. Therefore Chriſt was before <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> took Fleſh, or was born of the Virgin <hi>Mary:</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> general Conſequence deducible from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Premiſes is, That the Names Jeſus and Chriſt <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſty</hi> and <hi>primarily</hi> belong to <hi>him</hi> that took the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dy, though ſometimes given to each, and to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th.</p>
+            <p>The Creed-maker further objects, <hi>viz. They <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, That his Body was of an Earthly periſhing Na<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e.</hi> But what are <hi>they</hi> that ſo ſay? He hath <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e notoriouſly wronged the People called <hi>Qua<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> by impoſing a falſe Creed upon them.</p>
+            <p>Where do they ſay, <hi>That Chriſt's B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy either <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s or is of an earthly periſhing Nature?</hi> I utterly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny the Charge, and <hi>F. B.</hi> alſo to be our Creed<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ker, Conſtruer or Expoſitor, who hath un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tly infer'd this upon us from <hi>Iſ. Pennington</hi>'s <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing, <hi>He took upon him the Fleſh and Blood of our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ture, which is of an earthly periſhing Nature.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereby neither he nor the People called Qua<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s ſay, That Chriſt's Body either <hi>was</hi> or <hi>is</hi> of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>earthly periſhing Nature;</hi> for his Fleſh ſaw <hi>no</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rruption, therefore did not periſh; tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ture, our Fleſh and Blood be of an earthly pe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing Nature, <hi>ſo</hi> is not Chriſt's. I cannot ra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nally ſuppoſe that <hi>J. P.</hi> ever intended that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſt's Body (which on Earth did not corrupt) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of an earthly periſhing Nature now in Hea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> as ours is now on Earth; (take his Words al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Grammatically) for it is ſuch an abſurdity as I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not think ever entred into <hi>If. Pennington</hi>'s <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art, being a Man both of Learning, Senſe and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nſcience; <hi>[The Fleſh and Blood of our Nature]</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng antecedent next to <hi>[which is of an earthly <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſhing Nature.]</hi> Therefore <hi>[periſhing]</hi> appears <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly Relative to <hi>Fleſh and Blood,</hi> as 'tis our's and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us, and not to Chriſt's Body which <hi>is</hi> incor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tible.</p>
+            <p>
+               <hi>Object. Doth not the Name belong to the whole <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y,</hi> &amp;c. <hi>So that there are as many Chriſt's by their <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctrin, as believing Quakers. Oh! horrible Bla<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>emy.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> No, that's not our Doctrin; there's one <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dy, and ſo but one Chriſt, 1 <hi>Cor.</hi> 12.12. But <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Queſtion into <hi>F. B.</hi>'s contrary Doctrin <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lyed, and then 'tis <hi>The Name Chriſt belongs not <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>be whole Body, Chriſt's Body (i. e.</hi> his Church) <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot Anoynted; it therefore hath no right to his Name <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> any Member thereof;</hi> but then doth not this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear contrary to the Apoſtle's Doctrin, <hi>viz. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as the Body is one and hath many Members, and all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Members of the Body, which is one, though they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>many, yet are but one Body; even ſo is Chriſt,</hi> 1 Cor. 12.12. The Proteſtant Annotations in Queen <hi>Elizabeth</hi>'s Bible are, <q>
+                  <hi>That we might be one Body with Chriſt, and the whole Church one Chriſt.</hi>
+               </q> And on <hi>Epheſ.</hi> 1.23. <hi>The Church is alſo called Chriſt,</hi> 1 Cor. 12.12. (What ſays our Adver<g ref="char:EOLhyphen"/>ſary to theſe Annotations? Dare he judge them <hi>horrid Blaſphemy?</hi>) And he that eſtabliſheth us with you in Chriſt Jeſus, and hath <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Anointed</hi> us, is God. 2 <hi>Cor.</hi> 1.21.</p>
+            <p>Queſt <hi>But doth not the Name belong to the whole Body (and every Member therein) as well as to the Head?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Not Equally, becauſe he is the Head. 2. Nor Literally to be ſo named, but vertually and ſpiritually, and ſo <hi>truly,</hi> with reſpect to that divine Power and Spirit, whereby both the <hi>Head</hi> and the <hi>Body</hi> are Anointed; and each Member partakes thereof in ſome meaſure. But Chriſt, the Head in all things, has the Preheminence, he was <hi>Anointed</hi> (more eminently) in Fulneſs, his Members in part or meaſure by the ſame Spirit and Power; he was <hi>Anointed</hi> above his Fellows, implying their being anointed in degree. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Chriſt,</hi> ſignifies <hi>Anointed,</hi> as being the <hi>very Chriſt, the only begotten Son of God,</hi> which I know no Member of his Body aſſumes to himſelf; but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Chriſtian,</hi> which has relation to Chriſt the <hi>Anointed;</hi> for where Chriſt's Church, which is his Body, is ſaid to be the <hi>Fulneſs</hi> of him that filleth all in all, <hi>Epheſ.</hi> 1.23. 'Tis not of the Church as diſtinctly conſidered from the Head; but Chriſt the Head is included in that Fulneſs, tho' his own proper Exiſtence be entire, com<g ref="char:EOLhyphen"/>pleat and moſt glorious.</p>
+            <p>Creed 4. <hi>A word to all you Deceivers,</hi> &amp;c. I can<g ref="char:EOLhyphen"/>not apprehend how he can make the Quaker's Creed of this, ſuppoſing the whole Paſſage, un<g ref="char:EOLhyphen"/>leſs every particular Reproof muſt be taken for a general Creed, and then <hi>Argumentum ad Homi<g ref="char:EOLhyphen"/>nem;</hi> may not this Creed-maker's calling the Quakers and their Miniſters, (<hi>New</hi> Rome, <hi>Painted Harlot, Apoſtates, Deceivers, Falſe Chriſt's, Great Impoſtors, Deluded Souls, Black-guard of Lyars, a Tribe of Wretches, a Pack of Hypocrites, the greateſt Cheats,</hi> &amp;c.) be eſteemed <hi>Francis Bugg</hi>'s and his Miniſter's Creed? But I dare ſay, many of the Church of <hi>England,</hi> would not like ſuch a Creed to be formed and forged upon them from <hi>F. B.</hi>'s Railery, and indecent Treatment of the Qua<g ref="char:EOLhyphen"/>kers.</p>
+            <p>As to his Charge on <hi>G. F.</hi> &amp;c. of the <hi>Letter</hi> be<g ref="char:EOLhyphen"/>ing <hi>Duſt, Death, Carnal, Killing,</hi> the <hi>Husk,</hi> &amp;c. <hi>Cr.</hi> 4. &amp; 6. &amp; p. 78. I muſt refer the Ingeni<g ref="char:EOLhyphen"/>ous Reader to <hi>G. F.</hi>'s own Explication in this
+<pb n="5" facs="tcp:172997:3"/>very Matter; where he intends by <hi>Letter,</hi> not the Doctrin contained; thus diſtinguiſhing it in his <hi>Great Myſtery,</hi> fol. 78, <hi>viz.</hi> 
+               <q>
+                  <hi>The Letter, Paper and Ink; that the Letters are Carnal, but the Scri<g ref="char:EOLhyphen"/>pture, the thing it ſpeaks of is Spiritual, the Word is Spirit.</hi>
+               </q> (Thus <hi>G. F.</hi>) His diſtinction ap<g ref="char:EOLhyphen"/>pears between the <hi>Letter</hi> and the <hi>Spirit,</hi> as be<g ref="char:EOLhyphen"/>tween the <hi>Shadow</hi> and <hi>Subſtance,</hi> and to be partly grounded on <hi>Heb.</hi> 9.10. <hi>Rom.</hi> 2.29. &amp; 2 <hi>Cor.</hi> 3.6. and partly relating to the Nature of what he in<g ref="char:EOLhyphen"/>tends by <hi>Letter</hi> abſtractly, as in <hi>Paper</hi> and <hi>Ink</hi> which will decay; and is not the <hi>Kernel,</hi> the <hi>Seed,</hi> the <hi>Life</hi> or <hi>Spirit</hi> which will never decay; neither do we aſcribe <hi>Holineſs</hi> to the Paper and Ink, or dead Characters, but to the holy Doctrin and bleſſed Precepts contain'd, which therefore are called <hi>The Holy Scriptures,</hi> which we never did ſay are either <hi>Carnal, Death</hi> or <hi>Killing,</hi> but ſpiritual living and permanent. <hi>The Holy Scriptures,</hi> 2 Tim. 3.15, 16. being put for the Holy Do<g ref="char:EOLhyphen"/>ctrin therein contain'd, is a Metonymical Phraſe. Yet we are truly thankful to God for preſerving to us the outward Writings, Scriptures or Books commonly called the Bible.</p>
+            <p>Creed 5. <q>The Light, Chriſt, by whom all things were made and created, glorified with the Father before the World began, and which the Scripture teſtifies of, <hi>IS ABOVE</hi> the Scri<g ref="char:EOLhyphen"/>pture, and before the Scripture was, <hi>&amp;c.</hi> And this Chriſt is the ſame yeſterday, to day, and forever, whom the Saints came to witneſs <hi>WITHIN</hi> them, not another Chriſt nor many Chriſt's, <hi>&amp;c. G. F.</hi>'s <hi>Great Myſt.</hi> p. 254.</q>
+            </p>
+            <p>Againſt which <hi>F. B.</hi> objects, <hi>viz. According to their Creed laſt recited, the ſame Chriſt by which all things were made and created in IN THEM, which If true, then that proves ſufficiently what</hi> Eccleſ. <hi>ſays,</hi> viz. <hi>That the World was made by him</hi> [which <hi>F. B.</hi> injuriouſly conſtrues <hi>S. E. (upon the Quaker's Creed) to ſay of</hi> G. F. Oh! horrible and blaſphe<g ref="char:EOLhyphen"/>mous Slander againſt us, and expreſly contrary to <hi>G. F.</hi>'s own Teſtimony for Chriſt before-cited.]</p>
+            <p>But invert the ſaid oppoſed Creed on our Op<g ref="char:EOLhyphen"/>poſer, to his contrary ſenſe, and then it will run thus, <hi>viz.</hi> 1. <hi>That Chriſt the Son of God, by whom all things were made and of whom the Scripture teſti<g ref="char:EOLhyphen"/>fies, is NOT above the Scripture, nor before the Scri<g ref="char:EOLhyphen"/>pture was.</hi> (Is not this Socinianiſm, and a Deny<g ref="char:EOLhyphen"/>al of Chriſt's Divinity?) 2. <hi>That the Saints came NOT to witneſs this Chriſt within them</hi> (which is to deny their <hi>Chriſtian</hi> Faith of Chriſt within, 2 <hi>Cor.</hi> 13.5.) Oh! what <hi>horrible Antichriſtianiſm</hi> and ſad Apoſtacy is the Man run into, thus to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> out of himſelf and the Saints too; contrary to Chriſt's own (an his Apoſtle's) Teſtimony. Read <hi>Joh.</hi> 17.23, 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 2 <hi>Cor.</hi> 13.5.</p>
+            <p>Creed 6. <q>All Teaching which is given for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by Jeſus Chriſt, is to bring up the Hearers <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Perfection,</hi> even to the Meaſure, Stature and Fulneſs of Chriſt, <hi>&amp;c.</hi>
+               </q> On which he <hi>REMARKS,</hi> viz. <hi>Come and ſee once more this dar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſmal, antichriſtian and uncharitable Creed of the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deluded Souls,</hi> &amp;c. <hi>They, like the Phariſees, hold SINLESS PERFECTION,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Come and ſee once more what <hi>F. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> holds, <hi>e converſo,</hi> to the contrary, <hi>viz. That <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Teaching</hi> (or Miniſtry) <hi>given by Jeſus Chriſt, is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to bring up the Hearers to Perfection, that is, Sinleſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tho' it was to preſent them perfect in Chriſt, a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that all might come in the <g ref="char:V">Ʋ</g>nity of the Faith, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the knowledge of the Son of God unto a perfect Ma<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and unto the meaſure of the Stature of the fulneſs <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſt,</hi> as the Apoſtle expreſly declares, <hi>Epheſ.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Oh! what ſad and diſmal darkneſs of Apoſtacy, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Man fallen into? Contrary both to Chri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and his Apoſtle's expreſs Teſtimony. Read <hi>Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 17.21, 22, 23, 34. &amp;c. <hi>Epheſ.</hi> 4.11, 12, 13.</p>
+            <p>In Creed 6. <hi>ibid.</hi> He that hath the ſame Spir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that raiſed up Jeſus from the dead, is <hi>Equal w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God</hi> (which we do deny) quoting <hi>Saul</hi>'s Erran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>&amp;c.</hi> p. 8. and alſo <hi>Great Myſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry,</hi> p. 78, 127, 28<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> where (quoth <hi>F. B.) their being equal with God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not denyed but ſtrongly implyed.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We deny both to be any part of o<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Creed. The firſt, as being ſome acciden<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miſtake (in <hi>Saul</hi>'s <hi>Errand</hi>) as 'tis really ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pos'd, being alſo contradicted by <hi>G. F.</hi> in his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ownng the Charge, and denying himſelf or a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other Creature to be equal with God his Creato<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> But teſtifies, the Son and Holy Ghoſt, to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> equal in Power and Glory with God the Fathe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Great Myſtery,</hi> p. 127. and p. 254. and <hi>Saul</hi>'s <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> p. 5, 6, 8.</p>
+            <p>Let us take a view of ſome of <hi>F. B.</hi>'s 12 <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rors charged on the Quakers Doctrin, on whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (with his 6 fictitious Creeds) his 12 Chapte, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and much of his Book, are grounded.</p>
+            <p n="1">1. Againſt <hi>G. P.</hi>'s <hi>Great Myſt.</hi> p. 89. <hi>viz. T. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Quakers have a Spirit given to them beyond all Fore-fathers (ſince the days of the Apoſtles) in Apoſtacy,</hi> &amp;c.</p>
+            <p>[The very intent and meaning of <hi>G. F.</hi>'s wo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> herein, was not <hi>beyond all the Fore-fathers,</hi> with<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> exception, but beyond all <hi>in the Apoſtacy.].</hi> And further, <hi>And they can diſcern who are Saints, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> who are Devils, and who are Apoſtates, without ſpe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing ever a word.</hi> (But add further) <hi>They that be
+<pb n="6" facs="tcp:172997:4"/>Power and Life of Truth</hi> (as <hi>G. F.</hi> there ſaith) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo diſcern between <hi>Saints</hi> and <hi>Devils,</hi> &amp;c <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d that's poſſible, as 'tis for humble Men to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ern wicked Perſons, even by their proud and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y Looks, wanton and ſcornful Eyes, envious <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fallen Countenances; the ſhew of whoſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>untenance teſtifying againſt them; and more <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ecially by the <hi>Gift of diſcerning of Spirits,</hi> given <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome in the Church of <hi>Christ,</hi> Apoſtates and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ked Spirits are diſcernable from Saints. The <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> part that a <hi>Spirit</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> and <hi>Diſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning</hi> was given, and among us <hi>beyond all ſuch <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e-fathers as were in the Apoſtacy, F. B.</hi> did long <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ieve was <hi>no Error.</hi> But now if he'll have it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, invert it upon him, and then it muſt be in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſenſe, 1. <hi>That 'tis an Error to profeſs a Spirit <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en us (now adays) beyond all the Fore-fathers in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Apoſtacy.</hi> 2. <hi>That they that be in the Power and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e of Truth cannot diſcern between Saints and De<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, eſpecially when ſilent.</hi> Theſe being oppoſite <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Doctrins he deems <hi>Erroneous;</hi> by the firſt, has excluded himſelf (as well as others) from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Spirit of Chriſt, which is beyond all the Fore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers in the Apoſtacy, and thereby he hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>luded Chriſt and his Spirit, which the true <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſtles had; conſequently he's endued with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rit of Apoſtates, and in a great Apoſtacy, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only from the Chriſtian Society of the People <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed Quakers, but alſo from Chriſt himſelf, his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rit, Light and Truth. By the ſecond, he has <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſed (and excluded himſelf from) the Saints <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ht of diſcerning (by the Power and Life of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uth) between <hi>Saints</hi> and <hi>Devils.</hi>
+            </p>
+            <p>His 11th Erroneous Principle charged on the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kers,</hi> chap. 1. out of <hi>Good Advice,</hi> p. 39. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>That</hi> Edward VI. <hi>by Archbiſhop</hi> Cranmer, <hi>was <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pelled to ſign a Warrant to burn poor</hi> Joan <hi>of</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt, <hi>counted an Enthuſiaſt,</hi> for which <hi>F. B.</hi> ſadly <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t on preſumption) vilifies <hi>W. P.</hi> &amp;c. p. 72, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and which he ſaith, <hi>He does not believe, but <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ges it upon him</hi> G. W. <hi>and the reſt as a Lye, until <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>prove it by a Proteſtant Author.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> See <hi>Speed</hi>'s Chronicle, p. 1103. how <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>arly it is proved, and how averſe <hi>Edward</hi> VI. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s to ſigning the Warrant to burn <hi>Joan Butcher;</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> how Dr. <hi>Cranmer</hi> (his Godfather) Archbiſhop, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oured to induce him to ſet his Hand to the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rant of her Execution, and with what relu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ncy he did it, but not without Weeping: See <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Boker</hi>'s Chron. p. 311. Now, <hi>F. B.</hi> mayſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u not be horribly confounded and aſhamed of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> precipitant fooliſh raſhneſs, in reviling and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſtly condemning us as <hi>Lyars</hi> in this Mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 12th ſuppoſed Error. <q>I affirm the true Church is in the true Faith, that is, <hi>in God;</hi> and we muſt either believe this <hi>AS</hi> the true Church believes, or elſe it were but both a Folly and Hypocriſie to profeſs our ſelves Mem<g ref="char:EOLhyphen"/>bers thereof.</q>
+            </p>
+            <p>This he charges upon my ſelf as one of the Quakers great Errors (wherein I did not make the Church the <hi>Foundation,</hi> but <hi>Example</hi> of our Belief;) whence it follows, inverting it to his contrary Principle <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mplyed, that either the true Church is not in the true Faith, that is, in God, and therefore we muſt not believe as ſhe believes; or elſe, that tho' the true Church be in the true Faith, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat is, in God, we muſt not believe this as the true Church believes, or we muſt not be<g ref="char:EOLhyphen"/>lieve in God as the true Church believes; let him take which he pleaſes, ſeeing he oppoſes my Affirmation as erroneous; and then behold this blackſliding Adverſary's Faith, and return upon him, <hi>Oh! horrible Apoſtacy from the Faith of the true Church.</hi>
+            </p>
+            <p>If <hi>F. B.</hi> ſays, the aforeſaid Inverſions are not his meaning; then what did he oppoſe as Errone<g ref="char:EOLhyphen"/>ous, pray? Muſt not the contrary Senſe of every thing he oppoſeth be taken for his Senſe? Or did he wittingly and wilfully oppoſe Truth? It muſt be the one or t'other. Take which he pleaſes, and let him wind off the Dilemma if he can.</p>
+            <p>The moſt of the reſt of his Articles that con<g ref="char:EOLhyphen"/>cern Doctrin, are anſwered in divers other Books; as in my late Anſwer to the Baptiſts at <hi>Depiford,</hi> and <hi>Enquiry</hi> into a late Pamphlet, ſtiled, <hi>Some of the Quakers Principles and Doctrins,</hi> &amp;c. And in my Anſwer to Dr <hi>Ford</hi>'s <hi>Preſerva<g ref="char:EOLhyphen"/>tive againſt Quakeriſm.</hi> At preſent I wave and paſs by many of his Perſonal Abuſes, groſs De<g ref="char:EOLhyphen"/>tractions, Raileries and Slanders, and unjuſt Compariſons between <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> and the <hi>Papiſts</hi> and <hi>Popes;</hi> and many of his foul Reproaches caſt up<g ref="char:EOLhyphen"/>on the Servants of Chriſt, both living, and the dead in Chriſt, which the righteous God takes no<g ref="char:EOLhyphen"/>tice of.</p>
+            <p>Only, <hi>F. B.</hi> I may remind thee, That thy Stories againſt me, <hi>As an ill Inſtrument to ſet Man and Wife at variance, and in breaking a Match,</hi> p. 60. are both utterly falſe; and the Match, pretend<g ref="char:EOLhyphen"/>ed, was not of my breaking; as I can eaſily evince. As alſo thy Conſequence, That <hi>G. W. has out-done the boldeſt Jeſuits that ever thou read of.</hi> And even in thy Title Page, terming me a <hi>Chief Cardinal.</hi> In both whereof it appears, thou makſt no Conſcience of defaming and ſcandalizing me and others to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:172997:4"/>than 'twas to render thee an Informer; as alſo, in thy charging me with being a <hi>Deceiver of the People,</hi> p. 33, 34. On a Suppoſition from <hi>T. R.</hi>'s Account, that thou voluntarily <hi>paid thy Fine be<g ref="char:EOLhyphen"/>fore Diſtreſs,</hi> when 'twas after, according to thy Certificate, <hi>p.</hi> 34. But ſuppoſe his Account was a Miſtake as to ſuch Circumſtance of time of payment, and I miſtaken too in ſuch Suppoſition, (hadſt thou no better Character for him, than <hi>Lying Lawyer;</hi> nor for me, than <hi>Deceiver of the People?</hi>) Which I placed not on a neceſſity from God (as is falſly pretended) but on a Suppoſition, nor was it Matter of Doctrin; does it follow that I am, therefore, a <hi>Deceiver of the People?</hi> How does that appear, from the true ſtate of the Caſe? And upon what Propoſition and Argu<g ref="char:EOLhyphen"/>ment? I'll ſuppoſe one for thee. <hi>He that has been miſtaken in a Suppoſition about a Circumſtance of time, is a Deceiver of the People; but</hi> G. W. <hi>has been ſo miſtaken;</hi> Ergo, and then I muſt deny the major or firſt Propoſition; and can produce ſufficient Exceptions to invalid the Argument.</p>
+            <p>I have not room here cloſely to purſue the <hi>Di<g ref="char:EOLhyphen"/>lemma</hi> upon thee, for thy temporizing Retraction and Excuſe of thy being <hi>not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the ſame Mind thou waſt in in</hi> 1686. <hi>concerning us in the beginning; and that thou hadſt then better Thoughts of us reſpect<g ref="char:EOLhyphen"/>ing our beginning, than now thou hast; and that by reaſon thereof thou waſt in an Error, alſo granting thou waſt miſtaken in thy charitable Opinion of us, and in the greater Error,</hi> &amp;c. <hi>p.</hi> 12, 13, 14. Which feigned Retraction (being in oppoſition to thy own plain declared Teſtimonies both before and ſince thy <hi>Conformity</hi>) will not excuſe thee from Self-condemnation, nor from Sinning againſt Light and Conviction in thy temporizing Back<g ref="char:EOLhyphen"/>ſliding.</p>
+            <p>And now, <hi>F. B.</hi> as concerning thy Propoſal to <hi>G. W.</hi> &amp;c. <hi>To prove what we have ſaid, or retract what we cannot, of our Principles which we hold (and which thou chargeſt and rechargeſt on us as thou ſay'ſt) according to</hi> E Burrough's <hi>Propoſition, than to let thee have a Months notice thereof, any four, ſix or ten of our ableſt Captains;</hi> 'tis <hi>ableſt Preachers</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thy <hi>Epiſtle to Bereans,</hi> p. 12.) and that <hi>in Mild<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hall</hi> too (as thou boaſtingly challengeſt) <hi>and t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wilt take the like number of MEN on thy ſide; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if we refuſe this, then 'tis in thy purpoſe to trou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy ſelf no more after this manner,</hi> chap. 12. p. 7<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and chap. 1. p. 1, 2. and Poſtſcript, p. 89. &amp;p. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This we look upon as a conceited, pro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Boaſting (as well as unequal) Challenge on t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> part, and therefore refuſe it; and we are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bound to dance after thy Pipe; nor to run af<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thee to <hi>Milden-hall</hi> to wait upon thee. Wheth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thou wilt keep to thy parpoſe, to trouble <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſelf no more after this manner, or break thy P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>miſe; look thou to that, if thou think'ſt th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> haſt any Reputation to loſe. We reject thy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceited boaſting Challenge, 1. Becauſe it ſupp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſeth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſelf ſuch a qualified Perſon as <hi>E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> made his Propoſitions unto, which was for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Meeting of <hi>a few</hi> of the <hi>ableſt Prieſts and Pro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſors,</hi> which thou attempteſt no proof for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſelf being one of them; and thy own Self-c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceit can be no proof thereof to us.</p>
+            <p n="2">2. Nor that the number intended on thy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are of the <hi>ableſt</hi> Prieſts and Profeſſors; the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fore thy Challenge ſuits not thy inſtance.</p>
+            <p>Nor doſt thou produce any Deputation from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Church, Biſhops or Clergy of <hi>England,</hi> that th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will own and ſtand by thy Books againſt us, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> intruſt thee and thy number of Men to cont<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vert Matters of Religion on their behalf; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Deputation might juſtly be expected thou ſhou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>eſt have produced; conſidering how lofty, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſulting and extenſive thy Challenge is; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it tends to affect a <hi>People</hi> and their Profeſſio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we having alſo many foul Abuſes and Perverſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to charge againſt thy Books, and not at all <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>merous or doubtful of dealing with thee, <hi>&amp;c.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Chriſtian way, if the Lord ſhould require <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (remembring how thou wilt accept <hi>G. W.</hi>'s th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Charges p. 31.) But we are not under thy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> riſdiction, Command or Summons, either as M<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or Chriſtians.</p>
+            <closer>
+               <signed>
+                  <hi>By a Servant of Jeſus Chriſt,</hi> G. WHITEHEAD</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="8" facs="tcp:172997:5"/>
+            <p>VVE whoſe Names are hereunto ſub<g ref="char:EOLhyphen"/>ſcribed, do, in Behalf of the Peo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> commonly called Quakers Certifie all Per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s that are or may be concerned, That</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Francis Bugg,</hi> in his late great Book, ſtiled, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w Rome,</hi> hath moſt injuriouſly and falſly accu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and charged the ſaid People, and their Mini<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers as followeth, <hi>viz.</hi>
+            </p>
+            <p n="1">I. With <hi>Denying</hi> Chriſt Jeſus who was born of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Virgin <hi>Mary,</hi> who ſuffered without the Gates <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Jeruſalem,</hi> roſe again and aſcended into Hea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, <hi>&amp;c.</hi> and that they <hi>believe</hi> and <hi>ſay,</hi> That they <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nos</hi> call <hi>HIM</hi> Chriſt, chap. 3. p. 16. and <hi>Epi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e</hi> to <hi>Bereans,</hi> p. 2.</p>
+            <p n="2">II. That the <hi>Quaker</hi>'s <hi>Prophets</hi> give <hi>Witneſs to</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> For <hi>INSTEAD</hi> of this Chriſt; that they call <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <hi>G. F.</hi> the <hi>Branch,</hi> the <hi>Star,</hi> the <hi>Son of Righ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uſneſs;</hi> and put the <hi>North of</hi> England for the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wn of</hi> Bethlehem; Epiſtle to the <hi>Ber<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 81.</p>
+            <p n="3">III. That they (<hi>i. e.</hi> the Quakers) <hi>ſay,</hi> His Body (<hi>viz.</hi> Chriſt's Body) <hi>was of an earthly pe<g ref="char:EOLhyphen"/>riſhing Nature,</hi> Epiſt. ibid <hi>Remark</hi> on Creed 3.</p>
+            <p n="4">IV. That they <hi>ſay,</hi> The <hi>HOLY SCRIPT<g ref="char:V">Ʋ</g>RE</hi> is <hi>Carnal, Duſt, Death</hi> and <hi>Killeth,</hi> &amp;c. Epiſt. ibid. on Cr. 6. and p. 78. And to aggravate Matters againſt the Quakers, <hi>F. B.</hi> moſt unjuſtly and maliciouſly affirms their Creed to be <hi>Anti<g ref="char:EOLhyphen"/>christian, Blaſphemous, Idolatrous,</hi> if not a <hi>Compound of all Hereſies,</hi> Epiſt, ibid on Cr. 6.</p>
+            <p>Whereupon we do, in the Holy Fear of Al<g ref="char:EOLhyphen"/>mighty God, and in Behalf of the ſaid People, <hi>Declare</hi> and <hi>Testifie,</hi> That all theſe, and all other his Accuſations of the ſame kind, or depending thereupon, are utterly falſe, wicked and malici<g ref="char:EOLhyphen"/>ous, and never <hi>ſo</hi> believed, <hi>ſo</hi> ſaid, nor <hi>ſo</hi> affirm<g ref="char:EOLhyphen"/>ed by <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> as charged againſt <hi>
+                  <g ref="char:V">Ʋ</g>s;</hi> but contrary to our Perſuaſion, Principle and Profeſſion.</p>
+            <closer>
+               <dateline>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gned in <hi>London,</hi> 
+                  <date>the 3d. day of the 2d. Month, called <hi>April,</hi> 1693.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Tho. Green,</hi>
+                     </item>
+                     <item>
+                        <hi>James Parke,</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Waldenfield</hi>
+                     </item>
+                     <item>
+                        <hi>John <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Benjamin Antrobus,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Butcher,</hi>
+                     </item>
+                     <item>
+                        <hi>Gilbert Laity,</hi>
+                     </item>
+                     <item>
+                        <hi>Theodor Eccleſton,</hi>
+                     </item>
+                     <item>
+                        <hi>John Bowater,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Needham,</hi>
+                     </item>
+                     <item>
+                        <hi>William Robinſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Etteridge.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
